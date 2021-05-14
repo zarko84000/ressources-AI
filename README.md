@@ -4,9 +4,9 @@
 
 Rate : ★★★★                               State of Advancement : Finish
 
-Highly recommend for people that have already a little bit of pratical / theory in machine learning and deep learning.
+Highly recommend for people that have already a little bit of practical / theory in machine learning and deep learning.
 You will need to know Sklearn & Pytorch before starting this book.
-Has it is describe in the back cover book : 
+Has it is described in the back cover book : 
 > If you are looking for pure basics, this book is not for you. This book is for you if you are looking for guidance on approaching machine learning problems [...]
 
 <img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/approaching_any_machine_learning_problem.jpeg" width="250" height="300">
