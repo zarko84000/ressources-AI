@@ -12,12 +12,19 @@ Has it is describe in the back cover book :
 <img src="https://github.com/zarko84000/books/blob/main/imgs/approaching_any_machine_learning_problem.jpeg" width="250" height="300">
 
 
+- [Deep Learning - Ian Goodfellow, Yoshua Bengion & Aaron Courville](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning+goodfellow&qid=1620991918&sr=8-1) 
+
+<img src="https://github.com/zarko84000/books/blob/main/imgs/deep_learning_goodfellow.jpeg" width="250" height="300">
+
+
 # Scientific Papers
 
 ## Speech Papers that are very interresting to deep dive into. 
 
 ### Automatic Speech Recognition (ASR) End-to-End (E2E)
 - [Towards End-to-End Speech Recognition with Recurrent Neural Networks - Alex Graves & Navdeep Jaitly](http://proceedings.mlr.press/v32/graves14.pdf)  
+
+https://www.deeplearningbook.org/
 
 # Scientific Conference
 
