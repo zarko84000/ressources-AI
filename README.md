@@ -14,7 +14,7 @@ Has it is describe in the back cover book :
 
 - [Deep Learning - Ian Goodfellow, Yoshua Bengion & Aaron Courville](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning+goodfellow&qid=1620991918&sr=8-1) 
 
-<img src="https://github.com/zarko84000/books/blob/main/imgs/deep_learning_goodfellow.jpeg" width="250" height="300">
+<img src="https://github.com/zarko84000/books/blob/main/imgs/deep_learning_goodfellow.png" width="250" height="300">
 
 
 # Scientific Papers
