@@ -2,7 +2,7 @@
 
 - [Approaching (Almost) Any Machine Learning Problem - Abhishek Thakur](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) 
 
-Rate : ★★★★   State : Finish
+Rate : ★★★★   State of Advancement : Finish
 
 Highly recommend for people that have already a little bit of pratical / theory in machine learning and deep learning.
 You will need to know Sklearn & Pytorch before starting this book.
@@ -11,13 +11,13 @@ Has it is describe in the back cover book :
 
 <img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/approaching_any_machine_learning_problem.jpeg" width="250" height="300">
 
-Rate :    State : Current
+State of Advancement : Reading
 
 
 - [Deep Learning - Ian Goodfellow, Yoshua Bengion & Aaron Courville](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning+goodfellow&qid=1620991918&sr=8-1) 
+<a href="https://www.deeplearningbook.org/">Free book website</a>
 
 <img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/deep_learning_goodfellow.png" width="250" height="300">
-<a href="https://www.deeplearningbook.org/">Free book website</a>
 
 # Scientific Papers
 
