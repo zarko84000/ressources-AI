@@ -28,6 +28,11 @@ State of Advancement : Reading
 
 <img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/mathematics_for_machine_learning.jpeg" width="250" height="300">
 
+- [The Hundred-Page Machine Learning Book - Andriy Burkov](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=sr_1_1?dchild=1&keywords=the+hundred+page+machine+learning+book&qid=1620996328&sr=8-1) 
+
+<img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/hundred_page_machine_learning.jpeg" width="250" height="300">
+
+
 # Videos that I recommend for learning AI by yourself
 
 - [Deep Learning NYU - Alfredo Canziani & Yann LeCun](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) 
