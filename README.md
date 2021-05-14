@@ -28,6 +28,11 @@ State of Advancement : Reading
 
 <img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/mathematics_for_machine_learning.jpeg" width="250" height="300">
 
+# Videos that I recommend for learning AI by yourself
+
+- [Deep Learning NYU - Alfredo Canziani & Yann LeCun](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) 
+
+
 # Scientific Papers
 
 ## Speech Papers that are very interresting to deep dive into. 
