@@ -9,13 +9,13 @@ You will need to know Sklearn & Pytorch before starting this book.
 Has it is describe in the back cover book : 
 > If you are looking for pure basics, this book is not for you. This book is for you if you are looking for guidance on approaching machine learning problems [...]
 
-<img src="https://github.com/zarko84000/books/blob/main/imgs/approaching_any_machine_learning_problem.jpeg" width="250" height="300">
+<img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/approaching_any_machine_learning_problem.jpeg" width="250" height="300">
 
 
 - [Deep Learning - Ian Goodfellow, Yoshua Bengion & Aaron Courville](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?dchild=1&keywords=deep+learning+goodfellow&qid=1620991918&sr=8-1) 
 
-<img src="https://github.com/zarko84000/books/blob/main/imgs/deep_learning_goodfellow.png" width="250" height="300">
-
+<img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/deep_learning_goodfellow.png" width="250" height="300">
+<a href="https://www.deeplearningbook.org/">Free book website</a>
 
 # Scientific Papers
 
@@ -24,7 +24,6 @@ Has it is describe in the back cover book :
 ### Automatic Speech Recognition (ASR) End-to-End (E2E)
 - [Towards End-to-End Speech Recognition with Recurrent Neural Networks - Alex Graves & Navdeep Jaitly](http://proceedings.mlr.press/v32/graves14.pdf)  
 
-https://www.deeplearningbook.org/
 
 # Scientific Conference
 
