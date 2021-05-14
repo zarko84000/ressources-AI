@@ -4,6 +4,8 @@
 <img src="https://github.com/zarko84000/books/blob/main/imgs/approaching_any_machine_learning_problem.jpeg" width="200" height="240">
 
 
-# Papers
+# Scientific Papers
+
+## Speech Papers
 
 - [Towards End-to-End Speech Recognition with Recurrent Neural Networks - Alex Graves & Navdeep Jaitly](http://proceedings.mlr.press/v32/graves14.pdf)  
