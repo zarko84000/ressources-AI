@@ -15,3 +15,10 @@ Has it is describe in the back cover book : "If you are looking for pure basics,
 
 ### Automatic Speech Recognition (ASR) End-to-End (E2E)
 - [Towards End-to-End Speech Recognition with Recurrent Neural Networks - Alex Graves & Navdeep Jaitly](http://proceedings.mlr.press/v32/graves14.pdf)  
+
+# Scientific Conference
+
+## Federated Learning conference.
+
+- [Flower summit 2021](https://flower.dev/conf/flower-summit-2021)  
+
