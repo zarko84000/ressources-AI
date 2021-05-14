@@ -6,6 +6,7 @@
 
 # Scientific Papers
 
-## Speech Papers
+## Speech Papers that are very interresting to deep dive into. 
 
+### Automatic Speech Recognition (ASR) End-to-End (E2E)
 - [Towards End-to-End Speech Recognition with Recurrent Neural Networks - Alex Graves & Navdeep Jaitly](http://proceedings.mlr.press/v32/graves14.pdf)  
