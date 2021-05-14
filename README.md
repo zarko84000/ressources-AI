@@ -2,7 +2,8 @@
 
 - [Approaching (Almost) Any Machine Learning Problem - Abhishek Thakur](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) 
 
-Rate : ★★★★                               State of Advancement : Finish
+Rate : ★★★★                             
+State of Advancement : Finish
 
 Highly recommend for people that have already a little bit of practical / theory in machine learning and deep learning.
 You will need to know Sklearn & Pytorch before starting this book.
