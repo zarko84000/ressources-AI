@@ -19,6 +19,7 @@ State of Advancement : Reading
 
 <img src="https://github.com/zarko84000/ressources-AI/blob/main/imgs/deep_learning_goodfellow.png" width="250" height="300">
 
+State of Advancement : Reading
 
 - [Mathematics for Machine Learning  - Marc Peter Deisenroth, A. Aldo Faisal & Cheng Soon Ong](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_1?dchild=1&keywords=mathematics+for+machine+learning&qid=1620995636&sr=8-1) 
 <a href="https://mml-book.github.io/">Free book website</a>
