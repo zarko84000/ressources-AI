@@ -38,8 +38,20 @@ State of Advancement : Reading
 
 # Videos that I recommend for learning AI by yourself
 
+## Deep Learning
+
 - [Deep Learning NYU - Alfredo Canziani & Yann LeCun](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) 
 
+## Mathematics
+
+### Linear Algebra
+
+
+- [A 2020 Vision of Linear Algebra - Gilbert Stang](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/index.htm)
+
+- [MIT 18.06 Linear Algebra, Spring 2005 - Gilbert Stang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+
+- [Linear Algebra - 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
 
 # Scientific Papers
 
